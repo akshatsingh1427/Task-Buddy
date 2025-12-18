@@ -28,7 +28,8 @@
 - User signup and login system  
 - Secure authentication  
 - Create, view, update, and delete tasks  
-- Task progress tracking   
+- Task progress tracking  
+- Team-friendly task organization  
 - JSON-based data storage  
 - Clean and responsive UI  
 - Simple backend task handling logic  
@@ -43,7 +44,7 @@
 - DOM manipulation and event handling  
 - File-based data management  
 - Basic server-side programming  
-
+- Separation of frontend and backend  
 
 ---
 
