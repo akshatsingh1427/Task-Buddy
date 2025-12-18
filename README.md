@@ -69,5 +69,4 @@
 ├── script.js
 ├── server.cpp
 ├── users.json
-├── tasks.json
-└── README.md
+└── tasks.json
