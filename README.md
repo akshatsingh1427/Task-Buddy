@@ -54,8 +54,7 @@
 - CSS  
 - JavaScript  
 - C++  
-- JSON  
-- Git and GitHub  
+- JSON   
 
 ---
 
