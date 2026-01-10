@@ -39,7 +39,7 @@
 ## Web Concepts Used
 
 - HTML, CSS for structure and styling  
-- JavaScript for interactivity and logic  
+- JavaScript for interactivity   
 - Client-side form validation  
 - DOM manipulation and event handling  
 - File-based data management  
