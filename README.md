@@ -27,7 +27,7 @@
 
 - User signup and login system  
 - Secure authentication  
-- Create, view, update, and delete tasks  
+- Create, update, and delete tasks  
 - Task progress tracking  
 - Team-friendly task organization  
 - JSON-based data storage  
