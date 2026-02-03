@@ -43,7 +43,7 @@
 - DOM manipulation and event handling  
 - File-based data management  
 - Basic server-side programming  
-- Separation of frontend and backend  
+
 
 ---
 
