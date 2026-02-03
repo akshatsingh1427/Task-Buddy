@@ -31,8 +31,7 @@
 - Task progress tracking  
 - Team-friendly task organization  
 - JSON-based data storage  
-- Clean and responsive UI  
-- Simple backend task handling logic  
+- Clean and responsive UI    
 
 ---
 
